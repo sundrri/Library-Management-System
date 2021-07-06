@@ -1,7 +1,6 @@
-##Design
+#Design
 ## High Level Design
- • Process-flow Design :
- Structural and Behavioural Diagram
+ • Process-flow Design :Structural and Behavioural Diagram
 ![image](https://user-images.githubusercontent.com/69230664/124633488-f2880200-dea2-11eb-9f63-fe622214ef96.png)
 
 
