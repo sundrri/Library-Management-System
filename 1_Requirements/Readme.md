@@ -25,7 +25,9 @@
 ## Cost and Features with Time
 In order to determine the cost to develop library management system, a few aspects are to be considered first:
 •	Size of the App: More the features, more the cost.
+
 •	Number of Platforms: As the number of platforms are increased cost will also be increased significantly.
+
 •	If Indian App firm is chosen to create a Library Management System then the cost can range between $25000-$35000. This estimate is when the system is being developed with basic features and for a single platform.
 
 
