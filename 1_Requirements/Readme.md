@@ -24,6 +24,7 @@
 
 ## Cost and Features with Time
 In order to determine the cost to develop library management system, a few aspects are to be considered first:
+
 •	Size of the App: More the features, more the cost.
 
 •	Number of Platforms: As the number of platforms are increased cost will also be increased significantly.
