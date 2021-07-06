@@ -1,10 +1,12 @@
 # Requirements
 ## Introduction
-•	Searching for a book in a real large library is a very tedious process and keeping manual method of tracking book transactions is even more tedious. So through this program I have come up with a solution which can ease these tasks by implementing a “C program” using the linked lists Data Structures. This program is able to keep track of the book transactions in the library. We begin with adding books of different genre to the corresponding genre. In this program we as a user can perform adding, borrowing and returning of the books and more importantly displaying the information of the books in the library. 
+•	Searching for a book in a real large library is a very tedious process and keeping manual method of tracking book transactions is even more tedious. So through this program I have come up with a solution which can ease these tasks by implementing a “C program” using the linked lists Data Structures. This program is able to keep track of the book transactions in the library. We begin with adding books of different genre to the corresponding genre. In this program we as a user can perform adding, borrowing and returning of the books and more importantly displaying the information of the books in the library.
+
 •	The library management is a project that manages and stores books information electronically according to students needs. The system helps both students and library manager to keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book.
 
 ## Research
 •	The number of students studying in a school or a university are much more than one can think of keeping a track of records for the students. Most of the Library Management system consists of operations such as searching the books, displaying the information of books. 
+
 •	This project involves signing in of the user and has account for each user where his/her books and various operation options can be displayed. Each book will have a unique identification number, also known as access number and other details including title, author and availability in library which will help to know about the book. There could be more than one copy of a book and each copy is assigned a unique access number.
 
 ## Benefits
