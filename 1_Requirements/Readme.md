@@ -66,14 +66,13 @@ This system helps to store, display and search various books and their informati
 ## High Level Requirements: 
 | ID | Description | Status | 
 | ----- | ----- | --------- |
-|HR01| The admin should be able to create new records|	Technical |Implemented|
-|HR02| The admin should be able to delete the records|	Technical |Implemented|
-|HR03|The admin should be able to read the records|	Technical|Implemented|
-|HR04|The student should be able to search the book records	Technical|Implemented|
-|HR05|The admin should be able to display the searched records from the file|Technical|Implemented|
-|HR06|There should be no data loss in case of system failure|Future|
-|HR07|There should be no data breach or leakage and the data should be safe	|Future|
-
+ User here refers to Librarian.
+|HR01| User shall be able to add new book|	Technical |Implemented|
+|HR02| User shall be able to display all the books|	Technical |Implemented|
+|HR03|User shall be able to search books by name|	Technical|Implemented|
+|HR04|User shall be able to search books by author|Technical|Implemented|
+|HR05|User shall be able to display the books count|Technical|Implemented|
+|HR06|User shall be able to delete the book|Scenario|Future|
 
 ##  Low level Requirements:
  
