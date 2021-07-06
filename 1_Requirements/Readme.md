@@ -41,7 +41,7 @@ The whole system is operated by an admin
 
 
 ## SWOT ANALYSIS
-![image](![image](https://user-images.githubusercontent.com/69230664/124623778-e6e40d80-de99-11eb-954b-ac847b687b53.png)
+![image](https://user-images.githubusercontent.com/69230664/124623778-e6e40d80-de99-11eb-954b-ac847b687b53.png)
 
 
 
@@ -64,9 +64,9 @@ This system helps to store, display and search various books and their informati
 
 # Detail requirements
 ## High Level Requirements: 
+ User here refers to Librarian.
 | ID | Description | Status | 
 | ----- | ----- | --------- |
- User here refers to Librarian.
 |HR01| User shall be able to add new book|	Technical |Implemented|
 |HR02| User shall be able to display all the books|	Technical |Implemented|
 |HR03|User shall be able to search books by name|	Technical|Implemented|
