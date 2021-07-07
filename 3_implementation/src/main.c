@@ -1,8 +1,9 @@
 #include "header.h"
 
-int main(){
-    start_lib=initialize_lib(start_lib);
-    greetings();
-    main_menu();
+int main()
+{
+    init();
+    welcomeMessage();
+    login();
     return 0;
 }
