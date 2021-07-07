@@ -1,5 +1,5 @@
 # Library-Management-System
-It provides an online interface to allow visitors to view or reserve library resources.
+It provides an online interface to allow visitors to view or reserve library resources.In this console application, you can do basic library management task like adding the book, view the added book, search the books,etc.Good thing is that “Library management system project” is password-protected, so only authorized person able to login in this application.Also to increase the redabilty I have broken the application in different function. Each function of the project extensively use the file handing function, so it is also a great project to understand file handling.
 # SDLC Activity Based Learning
 
 Visit [Pages for Report -optional](using github.io option)
@@ -7,15 +7,23 @@ Visit [Pages for Report -optional](using github.io option)
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
 [![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml)
+## Default Login Credentials
+Username             | Password
+---------------------|------------------------------------------
+admin                | admin
+
 
 
 ## Folder Structure
-Folder             | Description
--------------------| -----------------------------------------
-`1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | Documents specifying design details
-`3_Implementation` | All code and documentation
-`4_Test_plan`      | Documents with test plans and procedures
+|Folder               | Description
+|---------------------|------------------------------------------
+|`1_Requirements`     | Documents detailing requirements and research
+|`2_Design`           | Documents specifying design details
+|`3_Implementation`   | All code and documentation
+|`4_TestplanAndOutput`| Documents with test plans and procedures
+|`5_Report`           | Documents related to project report
+|`6_ImagesAndVideos`  | All Images
+|`7_Other`            | Contain File
 
 ## Contributors List and Summary
 
@@ -31,7 +39,7 @@ PS No. |  Name   |    Features    | Issues Raised |Issues Resolved|No Test Cases
    2. Member: He can get a book issued.
 
 ## Learning Resources
-1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+1. [geeksforgeeks](https://www.geeksforgeeks.org/c-programming-language/)
+2. [tutorialspoint](https://www.tutorialspoint.com/cprogramming/index.html)
 3. [git inspector](https://github.com/ejwa/gitinspector.git)
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
