@@ -1,4 +1,6 @@
 # Library-Management-System
+![Library Photo](https://user-images.githubusercontent.com/69230664/125184956-78a79e00-e23f-11eb-86f0-5e35e310cf8f.jpg)
+
 It provides an online interface to allow visitors to view or reserve library resources.In this console application, you can do basic library management task like adding the book, view the added book, search the books,etc.Good thing is that “Library management system project” is password-protected, so only authorized person able to login in this application.Also to increase the redabilty I have broken the application in different function. Each function of the project extensively use the file handing function, so it is also a great project to understand file handling.
 # SDLC Activity Based Learning
 
