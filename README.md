@@ -5,8 +5,10 @@ It provides an online interface to allow visitors to view or reserve library res
 # SDLC Activity Based Learning
 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/693a5672c6364c6187bd9ff452f24c3b)](https://app.codacy.com/gh/shrishti-1309/Library-Management-System?utm_source=github.com&utm_medium=referral&utm_content=shrishti-1309/Library-Management-System&utm_campaign=Badge_Grade_Settings)
-[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) |   [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)| |[![Code Quality Score](https://www.code-inspector.com/project/25085/score/svg)](<https://frontend.code-inspector.com/public/project/25085/Library-Management-System/dashboard>)
+Build | Code Quality | Unity | [Git Inspector](using github.io option)
+------|----------|-------|--------------
+[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)|[![Codacy Badge](https://api.codacy.com/project/badge/Grade/693a5672c6364c6187bd9ff452f24c3b)](https://app.codacy.com/gh/shrishti-1309/Library-Management-System?utm_source=github.com&utm_medium=referral&utm_content=shrishti-1309/Library-Management-System&utm_campaign=Badge_Grade_Settings)|
+[![Code Quality Score](https://www.code-inspector.com/project/25085/score/svg)](<https://frontend.code-inspector.com/public/project/25085/Library-Management-System/dashboard>)
 [![Code Quality Score](https://www.code-inspector.com/project/25085/status/svg)](<https://frontend.code-inspector.com/public/project/25085/Library-Management-System/dashboard>)
 
 <img src="https://code-inspector.com/public/badge/user/github/shrishti-1309" />
@@ -19,15 +21,14 @@ It provides an online interface to allow visitors to view or reserve library res
 |`2_Design`           | Documents specifying design details
 |`3_Implementation`   | All code and documentation
 |`4_TestplanAndOutput`| Documents with test plans and procedures
-|`5_Report`           | Documents related to project report
-|`6_ImagesAndVideos`  | All Images
-|`7_Other`            | Contain File
+|`5_ImagesAndVideos`  | All Images
+
 
 ## Contributors List and Summary
 
 PS No. |  Name   |    Features    | Issues Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-303460 | Shrishti Singh  | All features    | No     | No   | 3   | All     
+303460 | Shrishti Singh  | All features    | No     | No   | 5   | All     
 
 ## Challenges Faced and How Was It Overcome
 
