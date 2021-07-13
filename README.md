@@ -4,13 +4,12 @@
 It provides an online interface to allow visitors to view or reserve library resources.In this console application, you can do basic library management task like adding the book, view the added book, search the books,etc.Good thing is that “Library management system project” is password-protected, so only authorized person able to login in this application.Also to increase the redabilty I have broken the application in different function. Each function of the project extensively use the file handing function, so it is also a great project to understand file handling.
 # SDLC Activity Based Learning
 
-Visit [Pages for Report -optional](using github.io option)
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/693a5672c6364c6187bd9ff452f24c3b)](https://app.codacy.com/gh/shrishti-1309/Library-Management-System?utm_source=github.com&utm_medium=referral&utm_content=shrishti-1309/Library-Management-System&utm_campaign=Badge_Grade_Settings)
-[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml)
+[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) |   [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)| |[![Code Quality Score](https://www.code-inspector.com/project/25085/score/svg)](<https://frontend.code-inspector.com/public/project/25085/Library-Management-System/dashboard>)
+[![Code Quality Score](https://www.code-inspector.com/project/25085/status/svg)](<https://frontend.code-inspector.com/public/project/25085/Library-Management-System/dashboard>)
 
+<img src="https://code-inspector.com/public/badge/user/github/shrishti-1309" />
 
 
 ## Folder Structure
