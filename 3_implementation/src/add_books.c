@@ -3,8 +3,8 @@
 /**
  * @brief For Adding Books  
  * For Adding Books in Library 
- * @param id 
- * @param title 
+ * @param id enter the book id
+ * @param title enter the title of book to be added
  * @return test_values 
  */
 test_values enter_new_record(int id, char title[]){

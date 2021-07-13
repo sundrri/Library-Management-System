@@ -3,6 +3,18 @@
 
 //#include"library_management.h"
 
+/**
+ * @brief For editing books
+ * For editing books in the library
+ * @param id enter id of book to be edited
+ * @param new_status enter the status of book
+ * @param new_date_of_issue enter the new issue date of book 
+ * @param new_due_date enter the due date
+ * @param new_member_first_name enter the first name of the student
+ * @param new_member_last_name enter the last name of the student
+ * @param new_member_id enter the new member id 
+ * @return test_values 
+ */
 test_values update_record(int id, char new_status[], char new_date_of_issue[], char new_due_date[], char new_member_first_name[],char new_member_last_name[], int new_member_id){
     FILE *fptr1;
     FILE *fptr2;

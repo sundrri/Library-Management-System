@@ -1,6 +1,10 @@
 #include"library.h"
 
-
+/**
+ * @brief for viewing books
+ * It opens the list of books in the library
+ * @return test_values 
+ */
 test_values view_all_records(){
     FILE *fptr;
     fptr = fopen("library_data.txt","rb");

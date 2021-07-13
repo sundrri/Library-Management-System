@@ -1,6 +1,11 @@
 #include"library.h"
 
-
+/**
+ * @brief to delete books
+ * For deleting books from the library
+ * @param id enter id of book to be deleted
+ * @return test_values 
+ */
 test_values delete_record(int id){
     FILE *fptr1;
     FILE *fptr2;

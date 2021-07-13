@@ -3,6 +3,10 @@
 #include <string.h>
 #include "header.h"
 
+/**
+ * @brief  this is the code for function
+ * 
+ */
 
 void flush()
 {

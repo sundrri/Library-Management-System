@@ -1,6 +1,11 @@
 #include"library.h"
 
-
+/**
+ * @brief For searching books
+ * This code is for searching boooks
+ * @param id enter book id to be searched
+ * @return test_values 
+ */
 test_values view_a_record(int id){
     FILE *fptr;
     fptr = fopen("library_data.txt","rb");
