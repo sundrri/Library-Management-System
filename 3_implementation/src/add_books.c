@@ -1,6 +1,12 @@
 #include"library.h"
 
-
+/**
+ * @brief For Adding Books  
+ * For Adding Books in Library 
+ * @param id 
+ * @param title 
+ * @return test_values 
+ */
 test_values enter_new_record(int id, char title[]){
     
     FILE *fptr;
