@@ -26,6 +26,6 @@ jobs:
     - name: Install gcov 
       run: sudo apt -y install gcovr
     - name: make coverageCheck
-      run: make coverageCheck -C 3_Implementation/
+      run: make coverageCheck -C 3_implementation/
     - name: GCov only
       run:  gcovr -r .
